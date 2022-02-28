@@ -1,0 +1,25 @@
+id: P654DABC7
+initial_creation_type: input
+source_metadata:
+  title: Karchak Series
+  language: en
+  description: Texts belonging to the genre of karchak (dkar chag), which corresponds
+    to the English terms register, catalogue, index, inventory and table of contents
+    and can provide details of (among other things) collected writings, libraries,
+    stūpas, temples and sacred places.
+  volume:
+    e3787ea32e0d45d597754294f162067f:
+      title: 'Repository of Every Form of Dharma That Might Be Wished For: A Catalogue
+        to the Published Miscellaneous Writings of the Venerable Guru Jamyang Chökyi
+        Lodrö'
+      parent: Catalogues
+    78bdb0845e4f42f4a2413ea93ba1b8fe:
+      title: 'Precise Discernment of Dharmas: A Catalogue of the Complete Collected
+        Works of the Omniscient King of Dharma, Rigdzin Jigme Lingpa'
+      parent: Catalogues
+    5bb061eb654c40b6bb687a31d7db9ad0:
+      title: 'Instilling Confidence and Trust: An Inventory of the Sacred Contents
+        of the Jarung Khashor Stūpa'
+      parent: Stūpa Inventories
+created_at: '2022-03-01T04:05:13.494990'
+last_modified_at: '2022-03-01T04:05:13.494996'
